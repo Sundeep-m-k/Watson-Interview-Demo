@@ -6,8 +6,8 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-primary via-primary/90 to-accent">
       {/* Demo Banner */}
-      <div className="bg-accent text-primary-foreground py-2 px-4 text-center">
-        <p className="text-sm font-medium">
+      <div className="bg-accent text-primary-foreground py-3 px-4 text-center">
+        <p className="text-lg font-semibold">
           🎓 Demo Live Website for Interview | Created by Sundeep Muthukrishnan Kumaraswamy
         </p>
       </div>
