@@ -8,6 +8,9 @@ A clean, responsive full-stack demo app for connecting university sponsors with 
 
 ## 🎓 About
 
+**Demo Live Website for Interview**  
+Created by: Sundeep Muthukrishnan Kumaraswamy
+
 The Watson Micro-Intern Portal helps sponsors post short-term project opportunities and allows students to discover meaningful work experiences that build real-world skills.
 
 ## 🚀 Tech Stack

@@ -5,6 +5,13 @@ import { ArrowRight, Briefcase, Users, Target } from "lucide-react";
 const Index = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-primary via-primary/90 to-accent">
+      {/* Demo Banner */}
+      <div className="bg-accent text-primary-foreground py-2 px-4 text-center">
+        <p className="text-sm font-medium">
+          🎓 Demo Live Website for Interview | Created by Sundeep Muthukrishnan Kumaraswamy
+        </p>
+      </div>
+
       {/* Hero Section */}
       <div className="container mx-auto px-4 py-16 md:py-24">
         <div className="max-w-4xl mx-auto text-center space-y-8">
