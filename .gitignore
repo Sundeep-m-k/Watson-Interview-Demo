@@ -27,3 +27,8 @@ dist/
 .env
 server/.env
 server/.env.local.backup
+
+# env files
+.env
+server/.env
+server/.env.local.backup
